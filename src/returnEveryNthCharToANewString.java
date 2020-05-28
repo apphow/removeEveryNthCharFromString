@@ -1,4 +1,4 @@
-public class removeEveryNth {
+public class returnEveryNthCharInNewString {
 
         public static void main(String[] args) {
             System.out.println(everyNth("Gregory", 2));
