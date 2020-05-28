@@ -1,4 +1,4 @@
-public class returnEveryNthCharInNewString {
+public class returnEveryNthCharToANewString {
 
         public static void main(String[] args) {
             System.out.println(everyNth("Gregory", 2));

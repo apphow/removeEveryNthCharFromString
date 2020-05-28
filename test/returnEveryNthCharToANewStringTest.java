@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class returnEveryNthCharInNewStringTest {
+public class returnEveryNthCharToANewStringTest {
 
     @Test
     public void everyNth() {
